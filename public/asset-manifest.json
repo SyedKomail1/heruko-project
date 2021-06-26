@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdae46a9.chunk.css",
+    "main.js": "/static/js/main.4131fcae.chunk.js",
+    "main.js.map": "/static/js/main.4131fcae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6ed67a28.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6ed67a28.js.map",
+    "static/css/2.0f67ab66.chunk.css": "/static/css/2.0f67ab66.chunk.css",
+    "static/js/2.b122ba04.chunk.js": "/static/js/2.b122ba04.chunk.js",
+    "static/js/2.b122ba04.chunk.js.map": "/static/js/2.b122ba04.chunk.js.map",
+    "static/js/3.d979d097.chunk.js": "/static/js/3.d979d097.chunk.js",
+    "static/js/3.d979d097.chunk.js.map": "/static/js/3.d979d097.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0f67ab66.chunk.css.map": "/static/css/2.0f67ab66.chunk.css.map",
+    "static/css/main.bdae46a9.chunk.css.map": "/static/css/main.bdae46a9.chunk.css.map",
+    "static/js/2.b122ba04.chunk.js.LICENSE.txt": "/static/js/2.b122ba04.chunk.js.LICENSE.txt",
+    "static/media/1-01.21b426b7.jpg": "/static/media/1-01.21b426b7.jpg",
+    "static/media/1-02.4d7f8586.jpg": "/static/media/1-02.4d7f8586.jpg",
+    "static/media/1-03.f5dc9716.jpg": "/static/media/1-03.f5dc9716.jpg",
+    "static/media/29.55f41d3b.jpg": "/static/media/29.55f41d3b.jpg",
+    "static/media/5.412340a3.jpg": "/static/media/5.412340a3.jpg",
+    "static/media/Logo13.60dcf974.png": "/static/media/Logo13.60dcf974.png",
+    "static/media/cor1.91bed230.png": "/static/media/cor1.91bed230.png",
+    "static/media/cor2.e3cad7ad.png": "/static/media/cor2.e3cad7ad.png",
+    "static/media/cor3.817f436c.png": "/static/media/cor3.817f436c.png",
+    "static/media/cor4.5f9fd36d.png": "/static/media/cor4.5f9fd36d.png",
+    "static/media/cor5.31dfcfc8.png": "/static/media/cor5.31dfcfc8.png",
+    "static/media/p1.cc834fd0.jpg": "/static/media/p1.cc834fd0.jpg",
+    "static/media/p2.c9b079ec.jpg": "/static/media/p2.c9b079ec.jpg",
+    "static/media/p3.f87eb730.jpg": "/static/media/p3.f87eb730.jpg",
+    "static/media/p4.767ee160.jpg": "/static/media/p4.767ee160.jpg",
+    "static/media/product.78222c36.jpg": "/static/media/product.78222c36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed67a28.js",
+    "static/css/2.0f67ab66.chunk.css",
+    "static/js/2.b122ba04.chunk.js",
+    "static/css/main.bdae46a9.chunk.css",
+    "static/js/main.4131fcae.chunk.js"
+  ]
+}
